@@ -1,0 +1,46 @@
+{
+	"org": {
+		"candidate_name": "ProtonFWD",
+		"website": "https://www.protonfwd.io",
+		"code_of_conduct": "https://www.protonfwd.io/bp",
+		"ownership_disclosure": "https://www.protonfwd.io/bp",
+		"email": "protonfwd1@gmail.com",
+		"github_user": [],
+		"chain_resources": "",
+		"other_resources": [],
+		"branding": {
+			"logo_256": "https://static.wixstatic.com/media/b3d9fa_88b57a38cd6d425e9ed515a291edff5c~mv2.png/v1/fill/w_1200,h_1200,al_c,usm_0.66_1.00_0.01/ProtonFWD%20256.png",
+			"logo_1024": "https://static.wixstatic.com/media/b3d9fa_1559c4f8ade94756b9651aba729c3ef0~mv2.png/v1/fill/w_1200,h_1200,al_c,usm_0.66_1.00_0.01/ProtonFWD%201024.png",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "Ohio",
+			"country": "US",
+			"latitude": 41.081757,
+			"longitude": -81.511452
+		},
+		"social": {
+			"keybase": "",
+			"telegram": "protonfwd",
+			"twitter": "protonfwd",
+			"github": "",
+			"youtube": "",
+			"facebook": "",
+			"hive": "",
+			"reddit": "protonfwd",
+			"wechat": ""
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "protonfwd",
+				"country": "US",
+				"latitude": 41.081757,
+				"longitude": -81.511542
+			},
+			"node_type": "producer"
+		}
+	],
+	"producer_account_name": ""
+}
