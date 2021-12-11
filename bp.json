@@ -42,5 +42,5 @@
 			"node_type": "producer"
 		}
 	],
-	"producer_account_name": ""
+	"producer_account_name": "protonfwd"
 }
